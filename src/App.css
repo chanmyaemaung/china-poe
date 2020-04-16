@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500&display=swap');
+
+body,
+html {
+    overflow-x: hidden;
+    font-family: 'Time New Romen';
+    font-weight: normal;
+    font-style: normal;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
