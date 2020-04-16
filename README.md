@@ -1,5 +1,5 @@
 ## China Poe
-# ![COVID-19 Tracker](https://i.imgur.com/AqUv0cX.png)
+# ![COVID-19 Virus Tracker](https://i.imgur.com/oZBBZA3.png)
 
 ### [Live Site](https://chinapoe.netlify.app/)
 
